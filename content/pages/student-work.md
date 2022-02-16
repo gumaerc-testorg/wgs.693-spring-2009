@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Student Work
 uid: adafc125-074f-e370-dec6-7122f185c1ef
 ---

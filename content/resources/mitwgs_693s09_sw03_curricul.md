@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding class 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/59cfb3378e90c04ba3af1a14a59f8c8d_MITWGS_693S09_sw03_Curricul.pdf
+file: /media/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/59cfb3378e90c04ba3af1a14a59f8c8d_MITWGS_693S09_sw03_Curricul.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Student Work
+parent_type: CourseSection
 resourcetype: Document
 title: Class 5 curriculum car.doc
 uid: 59cfb337-8e90-c04b-a3af-1a14a59f8c8d

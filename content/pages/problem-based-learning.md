@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Problem-Based Learning
 uid: cc7bab0a-e0b1-aee9-0f99-4b23289cd02b
 ---
