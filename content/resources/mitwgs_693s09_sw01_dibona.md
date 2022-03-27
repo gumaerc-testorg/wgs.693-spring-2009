@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: adafc125-074f-e370-dec6-7122f185c1ef
 resourcetype: Document
 title: MITWGS_693S09_sw01_Dibona.pdf
 uid: 2099ad32-05f2-7e0b-0c72-fc035cc81ed7

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e8dc7630-38d7-424a-881a-0be53c35c639
 resourcetype: Document
 title: Syllabus Treasure Hunt
 uid: 83f6ea63-8d1e-412d-0bdd-4dd0767c6111

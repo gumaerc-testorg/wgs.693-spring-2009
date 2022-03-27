@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: adafc125-074f-e370-dec6-7122f185c1ef
 resourcetype: Document
 title: MITWGS_693S09_sw02_Learning.pdf
 uid: b262c6df-52c7-e7c7-5e29-911b31f53d05

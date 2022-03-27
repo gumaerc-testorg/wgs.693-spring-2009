@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: adafc125-074f-e370-dec6-7122f185c1ef
 resourcetype: Document
 title: MITWGS_693S09_sw02_Sexual.pdf
 uid: 38226cd5-160d-10be-089a-0e8748c33f1a

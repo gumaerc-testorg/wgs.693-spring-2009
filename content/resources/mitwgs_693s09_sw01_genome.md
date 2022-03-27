@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: adafc125-074f-e370-dec6-7122f185c1ef
 resourcetype: Document
 title: MITWGS_693S09_sw01_Genome.pdf
 uid: 7d51ab75-e899-1b07-2487-adbcc4261366

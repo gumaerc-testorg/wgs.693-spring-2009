@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: adafc125-074f-e370-dec6-7122f185c1ef
 resourcetype: Document
 title: FFWcase3.doc
 uid: 165e14bc-d0c9-974a-3ab4-af2b4f07a59b

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem-Based Learning
 parent_type: CourseSection
+parent_uid: cc7bab0a-e0b1-aee9-0f99-4b23289cd02b
 resourcetype: Document
 title: Framework for Exchanges and Inquiry
 uid: 1bb52607-c75b-a94f-1b00-ea0b6f131f68

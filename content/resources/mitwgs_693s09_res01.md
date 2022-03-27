@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 4a8b66eb-5040-b6de-b170-2fea52852944
 resourcetype: Document
 title: Race case
 uid: 17819b04-fee9-4c88-82ef-cd45c2e6edd6

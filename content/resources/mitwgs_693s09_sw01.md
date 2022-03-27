@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: adafc125-074f-e370-dec6-7122f185c1ef
 resourcetype: Document
 title: Capitalist Science and the Medicalization(2).rtf
 uid: 623acad3-8d0e-37a8-6db1-abb59a890dc0

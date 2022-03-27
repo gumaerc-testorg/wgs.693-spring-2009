@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem-Based Learning
 parent_type: CourseSection
+parent_uid: cc7bab0a-e0b1-aee9-0f99-4b23289cd02b
 resourcetype: Document
 title: PBL embryo example
 uid: 5e7a86b1-9835-cdc0-557e-427f69006f35

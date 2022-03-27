@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e8dc7630-38d7-424a-881a-0be53c35c639
 resourcetype: Document
 title: Session 1 Introduction
 uid: 44f65147-17d8-4484-7a32-78f238941579

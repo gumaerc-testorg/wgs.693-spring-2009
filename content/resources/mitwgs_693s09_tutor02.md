@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem-Based Learning
 parent_type: CourseSection
+parent_uid: cc7bab0a-e0b1-aee9-0f99-4b23289cd02b
 resourcetype: Document
 title: KAQF for Action Research
 uid: cefb2f54-8793-3387-6a9b-523562b34b6c

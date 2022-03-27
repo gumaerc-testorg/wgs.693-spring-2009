@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: adafc125-074f-e370-dec6-7122f185c1ef
 resourcetype: Document
 title: Class 5 curriculum car.doc
 uid: 59cfb337-8e90-c04b-a3af-1a14a59f8c8d

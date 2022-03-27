@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e8dc7630-38d7-424a-881a-0be53c35c639
 resourcetype: Document
 title: KAQF Case 2.docx
 uid: f14fee30-2f50-99a5-2597-170a309f433b

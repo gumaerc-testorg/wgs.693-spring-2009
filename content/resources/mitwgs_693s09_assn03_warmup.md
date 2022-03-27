@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e8dc7630-38d7-424a-881a-0be53c35c639
 resourcetype: Document
 title: Warm up for Case 2.docx
 uid: 739da248-01d9-5b5b-94d7-1cd63655aab5
