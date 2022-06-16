@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on guides to writing and revising,
+  and additional resources on gender, race, and science.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -15,6 +17,6 @@ Turabian, Kate L. _A Manual for Writers of Research Papers, Theses, and Disserta
 
 **Additional Resources**
 
-"Race Resurgent, Race Reconstructed: Responses to Developments around Genomics and Biomedicine. ([PDF]({{< baseurl >}}/resources/mitwgs_693s09_res01))
+"Race Resurgent, Race Reconstructed: Responses to Developments around Genomics and Biomedicine. ({{% resource_link 17819b04-fee9-4c88-82ef-cd45c2e6edd6 "PDF" %}})
 
 [Gender and race courses](https://gws.illinois.edu/academics/course-catalog)\-A list of courses in the Science & Technology Studies program at the University of Illinois at Urbana-Champaign.

@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics and notes
+  on preparing for each weekly session.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 976b405e-f4ba-2d57-7cb5-720bb016b3bd
 ---
 
-For a complete list of assignments please go to the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For a complete list of assignments please go to the {{% resource_link e8dc7630-38d7-424a-881a-0be53c35c639 "Assignments" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}

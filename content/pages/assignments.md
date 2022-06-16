@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the assignments of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,11 +28,11 @@ Assignments
 {{< tdopen >}}
 
 
-Syllabus treasure hunt ([PDF]({{< baseurl >}}/resources/mitwgs_693s09_cal02))
+Syllabus treasure hunt ({{% resource_link 83f6ea63-8d1e-412d-0bdd-4dd0767c6111 "PDF" %}})
 
-Guided freewriting and initial personal/professional development planning ([PDF]({{< baseurl >}}/resources/mitwgs_693s09_cal01))
+Guided freewriting and initial personal/professional development planning ({{% resource_link 44f65147-17d8-4484-7a32-78f238941579 "PDF" %}})
 
-Haraway case assignment ([PDF]({{< baseurl >}}/resources/mitwgs_693s09_assn01))
+Haraway case assignment ({{% resource_link 87589682-2e15-210a-e282-29008c363146 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -53,13 +54,13 @@ Prepare guides for teaching/engaging to interpret the cultural dimension of scie
 {{< tdopen >}}
 
 
-Read case 2 and prepare works-in progress presentation ([PDF]({{< baseurl >}}/resources/mitwgs_693s09_assn03))
+Read case 2 and prepare works-in progress presentation ({{% resource_link 52cf5213-07b7-6c07-9de6-f425bde10a10 "PDF" %}})
 
 Read article by Gary Werskey, "[The Marxist Critique of Capitalist Science: A History in Three Movements?](http://human-nature.com/science-as-culture/werskey.html)"
 
-Do warm up for case 2 ([PDF]({{< baseurl >}}/resources/mitwgs_693s09_assn03_kaqf))
+Do warm up for case 2 ({{% resource_link f14fee30-2f50-99a5-2597-170a309f433b "PDF" %}})
 
-Complete initial KAQ(F) ([PDF]({{< baseurl >}}/resources/mitwgs_693s09_assn03_warmup))
+Complete initial KAQ(F) ({{% resource_link 739da248-01d9-5b5b-94d7-1cd63655aab5 "PDF" %}})
 
 Post on the wiki workpage two or three of your KAQFs that you are interested in pursuing.
 
@@ -96,7 +97,7 @@ Continue research and prepare presentations to the GCWS panel
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Begin case 3: genomics ([PDF]({{< baseurl >}}/resources/mitwgs_693s09_assn06))
+Begin case 3: genomics ({{% resource_link d9c19412-63a7-bd69-5239-aff5e02043b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +110,7 @@ Begin case 3: genomics ([PDF]({{< baseurl >}}/resources/mitwgs_693s09_assn06))
 
 Progress report with instructors about idea for guides for case 3
 
-Start final projects and prepare paragraph overview of project ([PDF]({{< baseurl >}}/resources/mitwgs_693s09_assn07))
+Start final projects and prepare paragraph overview of project ({{% resource_link dc878bb0-c436-8fa9-422b-5858b0673cab "PDF" %}})
 
 
 {{< tdclose >}}
