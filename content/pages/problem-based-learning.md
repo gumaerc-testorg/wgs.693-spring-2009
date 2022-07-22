@@ -1,15 +1,20 @@
 ---
 content_type: page
+description: This section provides an overview of problem-based learning, interdisciplinary
+  coaching, inverted pedagogy, the KAQ framework for inquire and exchange, and internet
+  facilitation.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Problem-Based Learning
 uid: cc7bab0a-e0b1-aee9-0f99-4b23289cd02b
 ---
 
 Case or problem-based learning begins from a scenario in which the problems are not well-defined.
 
-Framework for Exchanges and Inquiry ([PDF]({{< baseurl >}}/resources/mitwgs_693s09_tutor01))  
-**K**nowledge claim-**A**ctions that follow-**Q**uestions for **F**urther inquiry (KAQF) for Action Research ([PDF]({{< baseurl >}}/resources/mitwgs_693s09_tutor02))
+Framework for Exchanges and Inquiry ({{% resource_link 1bb52607-c75b-a94f-1b00-ea0b6f131f68 "PDF" %}})  
+**K**nowledge claim-**A**ctions that follow-**Q**uestions for **F**urther inquiry (KAQF) for Action Research ({{% resource_link cefb2f54-8793-3387-6a9b-523562b34b6c "PDF" %}})
 
-Read an example from a biology-in-society course. ([PDF]({{< baseurl >}}/resources/mitwgs_693s09_tutor03))
+Read an example from a biology-in-society course. ({{% resource_link 5e7a86b1-9835-cdc0-557e-427f69006f35 "PDF" %}})
 
 Students brainstorm so as to identify a range of problems related to the scenario and choose which of these they want to investigate and report back on. The problem-definitions may evolve as students investigate and exchange findings with peers. If the scenario is written well, most of the problems defined and investigated by the students will relate to the subject being taught, but instructors have to accept some "curve balls" in return for:
 
