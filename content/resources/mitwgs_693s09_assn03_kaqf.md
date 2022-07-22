@@ -6,6 +6,7 @@ file: /courses/wgs-693-gender-race-and-the-complexities-of-science-and-technolog
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: KAQF Case 2.docx
 uid: f14fee30-2f50-99a5-2597-170a309f433b
 ---
 This is a resource file that contains information regarding KAQF case 2.
-

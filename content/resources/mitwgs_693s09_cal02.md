@@ -6,6 +6,7 @@ file: /courses/wgs-693-gender-race-and-the-complexities-of-science-and-technolog
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Syllabus Treasure Hunt
 uid: 83f6ea63-8d1e-412d-0bdd-4dd0767c6111
 ---
 This is a resource file that contains information regarding syllabus treasure hunt.
-

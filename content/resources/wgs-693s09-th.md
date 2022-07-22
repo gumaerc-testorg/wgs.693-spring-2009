@@ -12,10 +12,10 @@ image_metadata:
   credit: Image courtesy of NASA.
   image-alt: 'Two female astronauts work on an experiment onboard a space shuttle. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: wgs-693s09-th.jpg
 uid: 0f0fc8ef-b2c9-bd28-4979-9a7d1ec60b01
 ---
 Astronauts Dr. N. Jan Davis and Dr. Mae C. Jemison, the first African American woman in space, work as mission specialists on board the STS-47 mission in 1992. Image courtesy of NASA. 
-
