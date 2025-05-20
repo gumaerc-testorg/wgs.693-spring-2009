@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding assignment
   2.
-file: /ol-ocw-studio-app/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/13693869bad75e2998c3ebd3e95800b5_MITWGS_693S09_assn02.pdf
+file: /courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/13693869bad75e2998c3ebd3e95800b5_MITWGS_693S09_assn02.pdf
 file_size: 521999
 file_type: application/pdf
 learning_resource_types:
