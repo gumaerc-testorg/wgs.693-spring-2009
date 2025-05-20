@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding reproduction.
-file: /ol-ocw-studio-app/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/b6efdc05d069e81d467b7e536f87a30a_MITWGS_693S09_sw01_Repro.pdf
+file: /courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/b6efdc05d069e81d467b7e536f87a30a_MITWGS_693S09_sw01_Repro.pdf
 file_size: 651319
 file_type: application/pdf
 learning_resource_types: []
