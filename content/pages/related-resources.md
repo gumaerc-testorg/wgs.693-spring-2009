@@ -19,4 +19,4 @@ Turabian, Kate L. _A Manual for Writers of Research Papers, Theses, and Disserta
 
 "Race Resurgent, Race Reconstructed: Responses to Developments around Genomics and Biomedicine. ({{% resource_link 17819b04-fee9-4c88-82ef-cd45c2e6edd6 "PDF" %}})
 
-[Gender and race courses](https://gws.illinois.edu/academics/course-catalog)\-A list of courses in the Science & Technology Studies program at the University of Illinois at Urbana-Champaign.
+{{% resource_link "3fd63229-cda9-4fd2-9cfa-719e4a8289be" "Gender and race courses" %}}\-A list of courses in the Science & Technology Studies program at the University of Illinois at Urbana-Champaign.
