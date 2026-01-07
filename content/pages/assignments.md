@@ -56,7 +56,7 @@ Prepare guides for teaching/engaging to interpret the cultural dimension of scie
 
 Read case 2 and prepare works-in progress presentation ({{% resource_link 52cf5213-07b7-6c07-9de6-f425bde10a10 "PDF" %}})
 
-Read article by Gary Werskey, "{{% resource_link "f48d94c0-eea0-43d2-a524-cc702f4cd562" "The Marxist Critique of Capitalist Science: A History in Three Movements?" %}}"
+Read article by Gary Werskey, "[The Marxist Critique of Capitalist Science: A History in Three Movements?](http://human-nature.com/science-as-culture/werskey.html)"
 
 Do warm up for case 2 ({{% resource_link f14fee30-2f50-99a5-2597-170a309f433b "PDF" %}})
 
