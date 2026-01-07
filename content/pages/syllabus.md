@@ -16,7 +16,7 @@ Lectures: 1 session / week, 3 hours / session
 
 ## The Graduate Consortium in Women's Studies
 
-This course is part of the {{% resource_link "e02eac73-ea88-48fd-99e2-291adfcd23ff" "Graduate Consortium in Women's Studies (GCWS)" %}}. GCWS at MIT is a pioneering effort by faculty at eight degree-granting institutions in the Boston area and MIT to advance women's studies scholarship.
+This course is part of the [Graduate Consortium in Women's Studies (GCWS)](http://web.mit.edu/gcws/). GCWS at MIT is a pioneering effort by faculty at eight degree-granting institutions in the Boston area and MIT to advance women's studies scholarship.
 
 ## Prerequisites
 
@@ -36,7 +36,7 @@ The PBL approach taken in this course makes the rest of the syllabus look incomp
 
 *Required*
 
-{{% resource_link "c098e376-61ad-4d99-a09e-249087a82d3b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hacket, Edward J., Olga Amsterdamska, Michael Lynch, and Judy Wajcman. {{% resource_link "c098e376-61ad-4d99-a09e-249087a82d3b" "*The Handbook of Science and Technology Studies*" %}}. Cambridge, MA: MIT Press, 2007. ISBN: 9780262083645.  \[{{% resource_link "c098e376-61ad-4d99-a09e-249087a82d3b" "Read sample chapters" %}} at MIT Press Web site.\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262083645) Hacket, Edward J., Olga Amsterdamska, Michael Lynch, and Judy Wajcman. [*The Handbook of Science and Technology Studies*](https://mitpress.mit.edu/9780262083645). Cambridge, MA: MIT Press, 2007. ISBN: 9780262083645.  \[[Read sample chapters](https://mitpress.mit.edu/9780262083645) at MIT Press Web site.\]
 
 *Recommended*
 
